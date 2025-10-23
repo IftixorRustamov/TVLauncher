@@ -71,6 +71,7 @@ app/src/main/java/com/example/tvlauncher/
 
 ## 🎥  Video
 
+https://github.com/IftixorRustamov/TVLauncher/video/demo.webm
 
 
 ---
