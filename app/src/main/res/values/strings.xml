@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TV Launcher</string>
+    <string name="launcher_title">My Apps</string>
+    <string name="launcher_title_with_count">My Apps (%d)</string>
+    <string name="app_icon_description">Application Icon</string>
+    <string name="welcome_message">Welcome to TV Launcher! Select any app to launch.</string>
+    <string name="error_launch_app">Cannot launch %s</string>
+    <string name="error_load_apps">Failed to load applications</string>
+    <string name="refresh_apps">Pull down to refresh</string>
+</resources>
